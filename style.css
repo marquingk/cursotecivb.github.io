@@ -28,6 +28,12 @@ section {
   align-items: flex-start; /* Alinha os itens na horizontal */
   margin-bottom: 3rem; /* Espaçamento abaixo de cada seção */
 }
+
+/* Estiliza as imagens */
+img {
+  width: 200px;
+  height: 300px;
+}
   
   /* Estiliza o resumo do site */
   .resumo {

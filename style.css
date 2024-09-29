@@ -21,12 +21,6 @@ h1 {
   letter-spacing: 0.1rem; /* Espaçamento interno entre letras */
 }
 
-/* Estliza as imagens */
-img {
-  width: 250px;
-  height: 200px;
-}
-
 /* Estiliza as seções da página */
 section {
   display: flex; /* Usa flexbox para layout */
